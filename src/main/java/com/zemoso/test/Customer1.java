@@ -8,10 +8,8 @@ import com.zemoso.factory.impl.Car;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
 public class Customer1 {
     private static final Logger logger = LoggerFactory.getLogger(Customer1.class);
-
     public static void main(String[] args) {
         Car car;
         //CUSTOMER TRYING TO ORDER LUXURY CAR
